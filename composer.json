@@ -1,0 +1,29 @@
+{
+    "name": "kostikpenzin/indexing_api_google",
+    "description": "The Indexing API allows any site owner to directly notify Google when pages are added or removed",
+    "type": "library",
+    "keywords": [
+        "Php",
+        "Php7",
+        "Bot",
+        "Yii",
+        "Api",
+        "Slack",
+        "Alert"
+    ],
+    "homepage": "https://github.com/kostikpenzin/indexing-api-google",
+    "license": "MIT",
+    "authors": [{
+        "name": "Konstantin Penzin",
+        "email": "penzin85@gmail.com"
+    }],
+    "require": {
+        "php": ">=7.1",
+        "google/apiclient": "2.12.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kostikpenzin\\Indexing_api_google\\": "src/"
+        }
+    }
+}
