@@ -4,12 +4,10 @@
     "type": "library",
     "keywords": [
         "Php",
-        "Php7",
-        "Bot",
-        "Yii",
         "Api",
-        "Slack",
-        "Alert"
+        "google",
+        "indexing",
+        "seo"
     ],
     "homepage": "https://github.com/kostikpenzin/indexing-api-google",
     "license": "MIT",
