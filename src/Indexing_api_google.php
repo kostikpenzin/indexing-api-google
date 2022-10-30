@@ -1,15 +1,15 @@
 <?php
 
 /**
- * Class Indexing_api_google.
+ * Class Indexing.
  */
 
 namespace kostikpenzin\indexing_api_google;
 
 /**
- * Indexing_api_google
+ * Indexing
  */
-class Indexing_api_google
+class Indexing
 {
 
     /**
@@ -66,7 +66,7 @@ class Indexing_api_google
      */
     private function initHttpClient()
     {
-        $client = new Google_Client();
+        $client = new \Google\Client();
         $client->setAuthConfig($this->fileJson);
         $client->addScope($this->urlIndexingAuth);
         $httpClient = $client->authorize();
