@@ -81,8 +81,7 @@ class Indexing
      */
     private function result(object $resp)
     {
-        $data['body'] = (string) $resp->getBody();
-        return json_encode($data);
+        return (string) $resp->getBody();
     }
 
     /**
@@ -132,5 +131,4 @@ class Indexing
         $response = $httpClient->get($this->urlIndexingNotifications . '/metadata?url=' . urlencode($url));
         return $this->result($response);
     }
-
 }
