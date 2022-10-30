@@ -1,10 +1,10 @@
 # Indexing api google
 
-[![Latest Stable Version](https://poser.pugx.org/kostikpenzin/indexing-api-google/v/stable)](https://packagist.org/packages/kostikpenzin/indexing-api-google)
-[![Total Downloads](https://poser.pugx.org/kostikpenzin/indexing-api-google/downloads)](https://packagist.org/packages/kostikpenzin/indexing-api-google)
-[![Latest Unstable Version](https://poser.pugx.org/kostikpenzin/indexing-api-google/v/unstable)](https://packagist.org/packages/kostikpenzin/indexing-api-google)
-[![License](https://poser.pugx.org/kostikpenzin/indexing-api-google/license)](https://packagist.org/packages/kostikpenzin/indexing-api-google)
-[![Monthly Downloads](https://poser.pugx.org/kostikpenzin/indexing-api-google/d/monthly)](https://packagist.org/packages/kostikpenzin/indexing-api-google)
+[![Latest Stable Version](https://poser.pugx.org/kostikpenzin/indexing_api_google/v/stable)](https://packagist.org/packages/kostikpenzin/indexing_api_google)
+[![Total Downloads](https://poser.pugx.org/kostikpenzin/indexing_api_google/downloads)](https://packagist.org/packages/kostikpenzin/indexing_api_google)
+[![Latest Unstable Version](https://poser.pugx.org/kostikpenzin/indexing_api_google/v/unstable)](https://packagist.org/packages/kostikpenzin/indexing-api-google)
+[![License](https://poser.pugx.org/kostikpenzin/indexing_api_google/license)](https://packagist.org/packages/kostikpenzin/indexing_api_google)
+[![Monthly Downloads](https://poser.pugx.org/kostikpenzin/indexing_api_google/d/monthly)](https://packagist.org/packages/kostikpenzin/indexing_api_google)
 
 
 The Indexing API allows any site owner to directly notify Google when pages are added or removed. This allows Google to schedule pages for a fresh crawl, which can lead to higher quality user traffic. For websites with many short-lived pages like job postings or livestream videos, the Indexing API keeps content fresh in search results because it allows updates to be pushed individually.
