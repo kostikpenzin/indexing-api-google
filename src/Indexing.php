@@ -81,7 +81,7 @@ class Indexing
      */
     private function result(object $resp)
     {
-        return (string) $resp->getBody();
+        return json_decode((string) $resp->getBody(), true);
     }
 
     /**
